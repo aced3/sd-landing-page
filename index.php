@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<title>SD landing page</title>
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
+<!-- 	<link rel="icon" href="favicon.ico" type="image/x-icon"> -->
 	<link rel="stylesheet" href="assets/css/app.css?v=<?php echo(rand(10,10000));?>">
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700|Rakkas" rel="stylesheet">
 </head>
